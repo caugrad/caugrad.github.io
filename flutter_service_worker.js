@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "e9eb58db72d407be27e9fa052224c304",
-"index.html": "6ab2b1cdf5d266fe076aa15820c20642",
-"/": "6ab2b1cdf5d266fe076aa15820c20642",
-"main.dart.js": "39975b1548591abfe5eb2bfe7e7ce631",
+"index.html": "16acfd874ba4f0d2ee58d57ebff2c903",
+"/": "16acfd874ba4f0d2ee58d57ebff2c903",
+"main.dart.js": "9fdf2e550f46451f6da9f66e38bc466d",
 "sqlite3.wasm": "fc00695e0788464e5b26edef5cf408da",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -23,7 +23,7 @@ const RESOURCES = {
 "assets/news_topics_full.json": "75f5d652724c5b979f0563885f11ef6f",
 "assets/loading.gif": "7a63480a257cdcc94fea9fa407908cbf",
 "assets/elonmusk_topic_class_sentiment.json": "ceb0aa4202c7febbf42dc43bf5fcc5ee",
-"assets/NOTICES": "d16a58cceac72884673a05543217510b",
+"assets/NOTICES": "2ad509ae50a97b7276411089dd810c47",
 "assets/iamsrk_topic_post_sentiment.json": "c30aaea8cef6e6a814d034cd91a12afd",
 "assets/chinook.db": "f2dd976ac500525eb862a008ba21609c",
 "assets/iamsrk_topic_class_sentiment.json": "36d3f57cb232cebc646520b6dcfdf968",
